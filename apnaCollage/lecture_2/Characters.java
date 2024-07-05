@@ -4,3 +4,4 @@ public class Characters {
         System.out.println(myGrade);
     }
 }
+
